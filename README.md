@@ -1,1 +1,1 @@
-# edu-ways-in-cs
+# self-taught-vs-formal-education-in-cs
